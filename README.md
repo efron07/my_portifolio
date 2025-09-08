@@ -73,7 +73,7 @@ portfolio_website/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/efron07/portfolio_website.git
+git clone https://github.com/efron07/my_portifolio.git
 cd portfolio_website
 ```
 
